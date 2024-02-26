@@ -8,8 +8,9 @@ export default {
     extend: {
       container: {
         center: true,
-        padding: '2rem'
-      }
+        padding: '3rem'
+      },
+
     },
   },
   darkMode: 'class',
