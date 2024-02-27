@@ -1,8 +1,11 @@
-
+import birds from '../assets/birds.png'
 const RegisterCTA = () => {
     return (
         <div className="container">
-            <div className="bg-[#F3F7FA] flex justify-between items-center gap-10 px-28 py-10 rounded-lg">
+            <div className="bg-[#F3F7FA] flex justify-between items-center gap-10 px-28 py-10 rounded-lg relative">
+                <div className="absolute -top-8 right-0">
+                    <img src={birds} alt="" className='w-auto' />
+                </div>
                 <div className="w-8/12">
                     <p className='uppercase text-purple-800 text-xl py-6 font-semibold'>Feature</p>
                     <h1 className='text-5xl font-bold tracking-wide py-8'>Receive payments quickly from anywhere</h1>
