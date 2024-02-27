@@ -1,7 +1,7 @@
 import birds from '../assets/birds.png'
 const RegisterCTA = () => {
     return (
-        <div className="container">
+        <div className="container my-20">
             <div className="bg-[#F3F7FA] flex justify-between items-center gap-10 px-28 py-10 rounded-lg relative">
                 <div className="absolute -top-8 right-0">
                     <img src={birds} alt="" className='w-auto' />
