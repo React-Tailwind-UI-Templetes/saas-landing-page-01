@@ -1,4 +1,4 @@
-import paymentContent from '../assets/Illustration.png'
+import paymentContent from '../assets/Cards.png'
 import union from '../assets/union3.png'
 const PaymentInfo = () => {
     return (

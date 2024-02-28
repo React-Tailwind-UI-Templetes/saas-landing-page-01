@@ -6,6 +6,7 @@ import PartnersLogo from './components/PartnersLogo'
 import ContentSection3 from './components/PaymentInfo'
 import PaymentInfo from './components/PaymentInfo'
 import RegisterCTA from './components/RegisterCTA'
+import TestimonialSection from './components/TestimonialSection'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <PaymentInfo />
       <RegisterCTA />
       <ContentSection3 />
+      <TestimonialSection />
     </>
   )
 }
