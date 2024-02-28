@@ -2,7 +2,7 @@ import paymentContent from '../assets/Illustration.png'
 import union from '../assets/Union 2.png'
 const ContentSection3 = () => {
     return (
-        <div className='py-20 relative'>
+        <div className='py-8 md:py-10 xl:py-20 relative'>
 
             <div className="container flex flex-col-reverse sm:flex-row gap-4 justify-between items-center">
                 <div className='sm:w-5/12'>
