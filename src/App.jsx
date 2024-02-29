@@ -7,6 +7,7 @@ import ContentSection3 from './components/ContentSection3'
 import PaymentInfo from './components/PaymentInfo'
 import RegisterCTA from './components/RegisterCTA'
 import TestimonialSection from './components/TestimonialSection'
+import ChooseUs from './components/ChooseUs'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <RegisterCTA />
       <ContentSection3 />
       <TestimonialSection />
+      <ChooseUs />
     </>
   )
 }
