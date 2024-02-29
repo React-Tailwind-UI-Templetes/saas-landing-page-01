@@ -9,6 +9,7 @@ import RegisterCTA from './components/RegisterCTA'
 import TestimonialSection from './components/TestimonialSection'
 import ChooseUs from './components/ChooseUs'
 import FooterCTA from './components/FooterCTA'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
       <TestimonialSection />
       <ChooseUs />
       <FooterCTA />
+      <Footer />
     </>
   )
 }

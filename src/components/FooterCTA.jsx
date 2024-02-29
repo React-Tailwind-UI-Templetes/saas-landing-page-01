@@ -2,8 +2,8 @@ const FooterCTA = () => {
     return (
         <div className='bg-blue-700'>
 
-            <div className="container my-8 xl:my-20">
-                <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-6 xl:gap-10 px-2 md:px-4 xl:px-28 py-4 md:py-6 xl:py-10 rounded-lg relative">
+            <div className="container mt-4 xl:mt-10">
+                <div className="flex flex-col md:flex-row justify-between items-center gap-4 md:gap-6 xl:gap-10 py-4 md:py-6 xl:py-10 rounded-lg relative">
 
                     <div className="md:w-1/2 text-white">
                         <p className='uppercase text-md md:text-xl py-2 md:py-4 xl:py-6 font-semibold'>Why Choose Us</p>
