@@ -8,6 +8,7 @@ import PaymentInfo from './components/PaymentInfo'
 import RegisterCTA from './components/RegisterCTA'
 import TestimonialSection from './components/TestimonialSection'
 import ChooseUs from './components/ChooseUs'
+import FooterCTA from './components/FooterCTA'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <ContentSection3 />
       <TestimonialSection />
       <ChooseUs />
+      <FooterCTA />
     </>
   )
 }
