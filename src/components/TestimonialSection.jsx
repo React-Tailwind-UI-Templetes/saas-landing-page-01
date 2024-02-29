@@ -54,7 +54,7 @@ const TestimonialSection = () => {
                     </div>
                 </div>
 
-                <div className='py-4 lg:py-12 my-4 lg:my-10 flex flex-col lg:flex-row items-center gap-5 justify-center w-full px-2 sm:px-10 border-[0.5px] border-gray-400 rounded-md'>
+                <div className='py-4 lg:py-12 my-4 lg:my-10 flex flex-col lg:flex-row items-center gap-5 justify-center w-full px-2 sm:px-10 border-[0.5px] border-gray-400 rounded-md shadow-xl'>
                     <p className='lg:text-lg'>And residence for met the estimable disposing. Mean if he they been no hold mr. Is at much do made took held help.</p>
                     <button className="text-xl px-6 lg:px-10 py-2 rounded-3xl bg-orange-600 hover:bg-orange-400  text-white transition-colors">Get Started</button>
                 </div>

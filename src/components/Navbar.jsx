@@ -7,7 +7,7 @@ const Navbar = () => {
                 <div className="flex flex-wrap justify-between items-center mx-auto ">
                     <a href="#" className="flex items-center">
 
-                        <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">ZenUI</span>
+                        <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">ZenUI</span>
                     </a>
                     <div className="flex items-center lg:order-2">
                         <button type="button" className="text-gray-500  hover:bg-gray-100 focus:outline-none rounded-lg text-sm p-2.5">
